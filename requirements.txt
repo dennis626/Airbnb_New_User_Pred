@@ -1,12 +1,12 @@
 numpy
 pandas
-scipy
+scipy==1.13.1
 plotly
-matplotlib
-seaborn==0.12.0
-scikit-learn==1.2.2
-xgboost==1.7.4
-lightgbm==3.3.5
-keras-tuner==1.1.3
-optuna==3.2.0
-streamlit==1.21.0
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+xgboost==2.1.1
+lightgbm==4.5.0
+keras-tuner==1.4.7
+optuna==4.0.0
+streamlit== 1.32.0
